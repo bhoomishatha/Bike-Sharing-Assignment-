@@ -42,5 +42,5 @@
 - sklearn- version 1.0.2
 - matplotlib - version 3.5.2
 - seaborn - version 0.11.2
-- statsmodels version 0.13.2
+- statsmodels - version 0.13.2
 
